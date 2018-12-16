@@ -1,0 +1,1 @@
+Tiny mark and sweep garbage collector for learning purposes.
